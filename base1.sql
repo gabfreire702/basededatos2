@@ -13,3 +13,5 @@ CREATE TABLE departamento (
     nombre VARCHAR(50)
 );
 
+123456+68414651
++97849874+984+984
